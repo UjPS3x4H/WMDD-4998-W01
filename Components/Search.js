@@ -20,7 +20,7 @@ const Search = () => {
 
   const handleSearch = () => {
     const apiKey =
-      "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlN2VlZjM3ZDU0ZWNjMmZjMjIxMWE3OGUzODFiYzhlOSIsInN1YiI6IjYzOGFlMTlhOGE4NGQyMDBjOWM5MzkyYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7wN7YcJsI7CH6c0w--UxzOFXEPEahFvWB7W1L9B59Q4";
+      "";
     const baseUrl = "https://api.themoviedb.org/3";
 
     if (selectedSearchType === "movie") {

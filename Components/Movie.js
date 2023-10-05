@@ -17,7 +17,7 @@ const Movie = () => {
       headers: {
         accept: "application/json",
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlN2VlZjM3ZDU0ZWNjMmZjMjIxMWE3OGUzODFiYzhlOSIsInN1YiI6IjYzOGFlMTlhOGE4NGQyMDBjOWM5MzkyYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7wN7YcJsI7CH6c0w--UxzOFXEPEahFvWB7W1L9B59Q4",
+          "Bearer ",
       },
     };
 
